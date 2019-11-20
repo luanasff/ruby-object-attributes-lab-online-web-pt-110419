@@ -7,7 +7,6 @@ class Dog
   end 
 end 
 
-fido=name.new("Fido")
-
+fido.name = "Fido"
 
 
