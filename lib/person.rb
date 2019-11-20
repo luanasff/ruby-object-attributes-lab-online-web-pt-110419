@@ -3,5 +3,3 @@ class Person
     @name = "Byonce"
   end 
   
-  def name(persons_name)
-end 
