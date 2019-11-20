@@ -7,6 +7,5 @@ class Dog
   end 
 end 
 
-fido.name = "Fido"
 
 
